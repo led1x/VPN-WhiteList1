@@ -1,2 +1,2 @@
-https://84.201.180.74:2096/sub/
-https://51.250.88.218:2096/sub/
+vless://b2556604-36fa-4855-9c26-f50b3df1783f@84.201.180.74:443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=xgoOce3UK9DvQlGaxLW6X36_YREyvWtmOubBwQBF7FA&fp=chrome&sni=ads.x5.ru&sid=0cf5df31c2&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20VPN%20%D0%B4%D0%BB%D1%8F%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2-Fi
+vless://924a4682-cd66-48a8-a55e-d42e66b6798e@51.250.88.218:443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=FbpGenf5XL5cjcZAZL4YoPpFMTBLn1El-oAbYmUHmDY&fp=chrome&sni=ads.x5.ru&sid=b1&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%D0%B1%D0%B5%D0%BB%D1%8B%D1%85%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%BE%D0%B2-RU
